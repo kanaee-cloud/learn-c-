@@ -1,0 +1,14 @@
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\bin\Debug\net7.0\tes c# 2.exe
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\bin\Debug\net7.0\tes c# 2.deps.json
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\bin\Debug\net7.0\tes c# 2.runtimeconfig.json
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\bin\Debug\net7.0\tes c# 2.dll
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\bin\Debug\net7.0\tes c# 2.pdb
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.AssemblyInfoInputs.cache
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.AssemblyInfo.cs
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.csproj.CoreCompileInputs.cache
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.dll
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\refint\tes c# 2.dll
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.pdb
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\tes c# 2.genruntimeconfig.cache
+C:\Users\smkn4\Desktop\Filenya_Arsal\tes c# 2\obj\Debug\net7.0\ref\tes c# 2.dll
